@@ -1,0 +1,9 @@
+[submodule "be-Duck-N-FAI"]
+	path = be-Duck-N-FAI
+	url = https://github.com/WeTranscend-labs/be-Duck-N-FAI.git
+[submodule "fe-Duck-N-FAI"]
+	path = fe-Duck-N-FAI
+	url = https://github.com/WeTranscend-labs/fe-Duck-N-FAI.git
+[submodule "extension-Duck-N-FAI"]
+	path = extension-Duck-N-FAI
+	url = https://github.com/WeTranscend-labs/extension-Duck-N-FAI.git
